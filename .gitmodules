@@ -1,6 +1,6 @@
-[submodule "llvm2mlog"]
-	path = llvm2mlog
-	url = https://github.com/Mindustack/llvmir2mlog.git
 [submodule "Minterpreter"]
 	path = Minterpreter
 	url = https://github.com/Mindustack/Minterpreter.git
+[submodule "llvmir2mlog"]
+	path = llvmir2mlog
+	url = https://github.com/Mindustack/llvmir2mlog.git
