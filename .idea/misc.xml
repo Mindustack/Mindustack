@@ -11,9 +11,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../Minterpreter/pom.xml" />
-        <option value="$PROJECT_DIR$/../llvmir2mlog/pom.xml" />
         <option value="$PROJECT_DIR$/Minterpreter/pom.xml" />
+        <option value="$PROJECT_DIR$/llvm2mlog/pom.xml" />
       </list>
     </option>
   </component>
